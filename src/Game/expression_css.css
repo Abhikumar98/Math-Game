@@ -1,0 +1,15 @@
+.expressionBox{ 
+  height: 10vh;
+  align-items: center;
+  width: 25vw;
+  display: flex;
+  justify-content: space-around;
+  font-size: 7vh;
+}
+.operands{
+  border : solid 2px;
+}
+span{
+  text-align: center;
+  width: 33%;
+}
